@@ -3,3 +3,6 @@ Java 21 is expected to be released on September 2023, being the next long-term s
 
 - Pattern Matching for switch [PATTERN-MATCHING-README.md](doc/PATTERN-MATCHING-README.md)
 - Sequenced Collections[ SEQUENCED-COLLECTION-README.md](doc/SEQUENCED-COLLECTION-README.md)
+
+# java-java8
+- Optinal class [OPTIONAL-CLASS-README.md](doc/OPTIONAL-CLASS-README.md)
